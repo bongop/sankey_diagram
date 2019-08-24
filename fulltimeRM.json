@@ -1,0 +1,950 @@
+[
+  {
+    "position": "Market Research Analyst",
+    "company": "Blueocean Market Intelligence",
+    "numreview": "20 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Machine Learning Engineer/Deep Learning Engineer(Local only)",
+    "company": "BrickRed Systems",
+    "numreview": "2 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Senior Engineering Architect",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Principal Software Engineer, Azure Databricks",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Product Manager- Optimization",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Principal Software Engineer",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "AI Lead – Workplace Analytics Customer Solutions",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Market Research Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Program Manger",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Marketing Communications Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Principal IC",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Computer Vision Scientist",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Research Scientist - Applied Machine Learning",
+    "company": "Facebook",
+    "numreview": "366 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "RESEARCHER",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Research Intern - Machine Learning + Data Visualization",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Data & Applied Scientist-Analysis & Insights",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Data Scientist",
+    "company": "Posh Technologies",
+    "numreview": "9 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Data Scientist",
+    "company": "Inabia Solutions and Consulting",
+    "numreview": "",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Sr UX Web Developer, Insights & Analytics, Customer & Partner Advocacy",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Cloud Software Engineer: Vetting and Forensics",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Data Scientist (Neural Networks)",
+    "company": "Neal Analytics",
+    "numreview": "",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Data Scientist - Scala and Spark",
+    "company": "HCL Technologies",
+    "numreview": "",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Data Scientist",
+    "company": "BrickRed Systems",
+    "numreview": "2 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Senior Software Engineering Lead",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Sr. Software Engineering Mgr",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Product Marketing Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Engineering Lead",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Principal Software Engineering Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Software Engineer: Full Stack",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Data Scientist ll",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Data & Applied Scientist",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Data Scientist 2",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Data Scientist Researcher",
+    "company": "Harman Connected Services",
+    "numreview": "",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Data Scientist/Technical Writer(position 1)",
+    "company": "Posh Technologies",
+    "numreview": "9 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "NGS Scientist",
+    "company": "Resolution Bioscience",
+    "numreview": "",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Program Manager/Data Scientist",
+    "company": "Inabia Solutions and Consulting",
+    "numreview": "",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Cyber Crime Investigator",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Cybercrime Data Analyst",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Data Analyst",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Principal Data Scientist",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Data & Applied Scientist",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Sr. DATA SCIENTIST",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Data Scientist-Digital Stores",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Data Scientist Mgmt-WW Customer Success",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Full-time PhD opportunities for students & recent graduates: Data & Applied Sciences",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Research Intern - Data Management, Exploration and Mining Group (DMX)",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "AI-Data Content Developer",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Principal Applied Data Scientist",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "GeoSpatial Data Engineer",
+    "company": "EarthDefine",
+    "numreview": "",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Research Scientist",
+    "company": "NVIDIA",
+    "numreview": "166 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Data & Applied Scientist Mgr",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Principal Data & Applied Scientist",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "USER RESEARCHER",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Intern opportunities for PhD students: Data & Applied Sciences",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Research Intern - Clinical Sensing and Analytics",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Data Engineer",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Data Scientist",
+    "company": "Diverse Lynx",
+    "numreview": "82 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Data Scientist (R, SAS/ Python)",
+    "company": "Diverse Lynx",
+    "numreview": "82 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Research Scientist, Machine Learning and Graphics",
+    "company": "Facebook",
+    "numreview": "366 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Applied Scientist 2",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Research Intern - Cold Logic",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Developer/Data Engineer, Insights & Analytics, Customer & Partner Advocacy",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Map Perception Scientist for Autonomous Vehicles",
+    "company": "NVIDIA",
+    "numreview": "166 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Research Scientist, Eye Tracking (PhD University Grad)",
+    "company": "Facebook",
+    "numreview": "366 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Research Intern - Program Synthesis",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Research Scientist, Visual Quality (PhD University Grad)",
+    "company": "Facebook",
+    "numreview": "366 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "SDE-Machine Learning",
+    "company": "Posh Technologies",
+    "numreview": "9 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Research Intern - Applied Sciences Group",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "CV/ML Research Scientist, Eye Tracking",
+    "company": "Facebook",
+    "numreview": "366 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Chief of Staff",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Data Analyst",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Research Intern - Systems",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "SENIOR SCIENTIST",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Bioinformatics Scientist",
+    "company": "Covance",
+    "numreview": "423 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Sr. Content Developer-AI-Data",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Principal Data Scientist Lead, Identity Data Experimentation and Analysis",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "SENIOR APPLIED SCIENTIST",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Research Intern - Topological Machine Learning",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Machine Learning Scientist",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Creative Director",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Postdoctoral Research Scientist, VR/AR Interactions",
+    "company": "Facebook",
+    "numreview": "366 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Biostatistician",
+    "company": "Resolution Bioscience",
+    "numreview": "",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Sales and Marketing-Machine Learning",
+    "company": "Encore Information Systems Inc.",
+    "numreview": "",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Machine Learning Engineer",
+    "company": "Redcley",
+    "numreview": "",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Demand Forecaster",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Applied Machine Learning Engineer",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Optical Scientist, Liquid Crystal Optics (PhD University Grad)",
+    "company": "Facebook",
+    "numreview": "366 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "SDE II",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Product Manager",
+    "company": "Probi USA, Inc.",
+    "numreview": "",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Machine Learning Researcher - Computer Vision",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Software Engineer",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Business Analytics Specialist",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "PRINCIPAL DATA SCIENCE MANAGER",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Business Planner",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "RSDE 2",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Research Scientist, Human Computer Interaction (PhD University Grad)",
+    "company": "Facebook",
+    "numreview": "366 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Principal Researcher - Machine Learning",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Machine Learning Engineer",
+    "company": "Nxt Level",
+    "numreview": "",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Architect",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Data Engineer",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Program Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Entry Level Construction Materials Testing Technician",
+    "company": "Kleinfelder, Inc.",
+    "numreview": "92 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "UX Researcher - Audio",
+    "company": "Trinamix Inc.",
+    "numreview": "",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Designer 2",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Design Researcher II",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Staff Machine Vision / Machine Learning Engineer",
+    "company": "MicroVision",
+    "numreview": "9 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Program Manager, Mixed Reality Content",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Business Program Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Machine Learning Researcher - Audio/Speech/Computer Vision",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Product Marketing Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Full Stack Engineer: Vetting & Forensics",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Physician Product Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Data Architect",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Principle Battery FA Engineer",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Software Engineer",
+    "company": "Facebook",
+    "numreview": "366 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Software Engineer II - Machine Learning",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Software Developer II",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Machine Learning Specialist - CSI / Azure - Cloud Server Infrastructure",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Sr Software Engineer - Big Data",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Computer Vision Scientist for Autonomous Vehicles",
+    "company": "NVIDIA",
+    "numreview": "166 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Xbox Lifecycle Marketing Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Software Design Engineer 2(Python)",
+    "company": "CSI Interfusion",
+    "numreview": "",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Machine Learning Engineer",
+    "company": "Arth Systems",
+    "numreview": "",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Software Development Engineer II",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Prime Advisors Municipal Research Analyst (Redmond, WA)",
+    "company": "Sun Life Financial",
+    "numreview": "889 reviews",
+    "location": "Redmond, WA 98053"
+  },
+  {
+    "position": "Software Engineer - Physics",
+    "company": "Facebook",
+    "numreview": "366 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "AR/VR Software Engineer, Interaction Tracking",
+    "company": "Facebook",
+    "numreview": "366 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Sr. Machine Learning Researcher - Computer Vision",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Executive Security Advisor – Digital Crimes Unit and Cyber Defense Operations Center",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "AR/VR Software Engineer (Oculus)",
+    "company": "Facebook",
+    "numreview": "366 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Software Engineer II - C#",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Sr Marketing Automation Specialist",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Software Engineer, Insights & Analytics, Customer & Partner Advocacy",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Construction Materials and Geotechnical Testing Laboratory Technician",
+    "company": "Kleinfelder, Inc.",
+    "numreview": "92 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Principal PM Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Software Engineering Lead",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Content Developer",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Optical Engineer, Testing",
+    "company": "Facebook",
+    "numreview": "366 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Staff Engineer, Advanced Operations",
+    "company": "Stryker",
+    "numreview": "1,071 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Staff Software Engineer",
+    "company": "General Electric",
+    "numreview": "292 reviews",
+    "location": "Redmond, WA 98053"
+  },
+  {
+    "position": "Principal Service Engineer",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior PM Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Software Developer",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Program/Project Coordinator Opportunity - This is not a Technical IT role, but rather a support role for data analysis, system updates and reporting.",
+    "company": "CBRE",
+    "numreview": "2,059 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Senior HR Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Principal Sr. Data Engineer Lead",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Program Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "UX Researcher, Audio (8267165)",
+    "company": "PRO Unlimited @ facebook",
+    "numreview": "224 reviews",
+    "location": "Redmond, WA"
+  },
+  {
+    "position": "Sr Software Engineer",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Design Researcher",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Principal Program Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Software Development Engineer",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Sr. Cloud Developer Advocate",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Principal Software ENG. Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Principal Software Development Engineer",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "PRINCIPAL SOFTWARE ENG LEAD",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Technical Audio Designer",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  },
+  {
+    "position": "Senior Relationship Marketing Manager",
+    "company": "Microsoft",
+    "numreview": "4,618 reviews",
+    "location": "Redmond, WA 98052"
+  }
+]
